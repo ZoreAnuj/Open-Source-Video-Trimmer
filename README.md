@@ -1,4 +1,4 @@
-# Video Trimmer Application
+# Open-Source-Video-Trimmer
 
 This is a simple video trimming application that allows you to load a video file, select start and end frames, and trim the video based on your selection. The application is built using Python and the Tkinter library for the graphical user interface, along with other libraries like OpenCV and MoviePy for video processing.
 
